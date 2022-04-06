@@ -1,0 +1,4 @@
+link para download do git
+
+https://www.markdownguide.org/getting-started/
+o git bash é um terminal estendido para otimizar o uso do git
